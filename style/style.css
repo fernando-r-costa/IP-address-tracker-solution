@@ -1,3 +1,99 @@
 body {
     font-family: 'Rubik', sans-serif;
+    width: 1440px;
+}
+
+header {
+    background: url(../images/pattern-bg-desktop.png);
+    height: 300px;
+}
+
+header h1 {
+    padding: 35px 560px;
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    border: none;
+
+}
+
+.search {
+    display: grid;
+    grid-template-columns: 440px 10px;
+    grid-template-rows: 60px 20px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin: 0 0 0 450px;
+}
+
+.input {
+    grid-area: 1 / 1 / 2 / 2;
+    padding: 10px 0 10px 20px;
+    border: none;
+    border-radius: 15px 0 0 15px;
+    font-size: 20px;
+}
+
+::placeholder {
+    color: hsl(0, 0%, 59%);
+}
+
+.input:focus {
+    outline: none;
+    cursor: pointer;
+}
+
+.input:hover {
+    cursor: pointer;
+}
+
+.button {
+    grid-area: 1 / 2 / 2 / 3;
+    background-color: black;
+    padding: 23px 25px;
+    border: none;
+    border-radius: 0 15px 15px 0;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: hsl(0, 0%, 17%);
+}
+
+#erro {
+    display: none;
+    grid-area: 2 / 1 / 3 / 2;
+    margin: 5px 0 0 25px;
+    color: rgb(233, 68, 8);
+    font-size: 18px;
+    border: none;
+
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: 100px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.ip-address {
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+.location {
+    grid-area: 1 / 2 / 2 / 3;
+}
+
+.timezone {
+    grid-area: 1 / 3 / 2 / 4;
+}
+
+.isp {
+    grid-area: 1 / 4 / 2 / 5;
+}
+
+footer {
+    font-size: 10px;
 }

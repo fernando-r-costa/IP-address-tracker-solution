@@ -32,7 +32,7 @@ Users should be able to:
 
 ## My process
 
-- [ ] Desktop-design
+- [50%] Desktop-design
 - [ ] Active-states
 - [ ] Mobile-design
 - [ ] API Map
