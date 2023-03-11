@@ -34,7 +34,7 @@ Users should be able to:
 
 - [x] Desktop-design
 - [x] Active-states
-- [ ] Mobile-design
+- [x] Mobile-design
 - [ ] API Map
 - [ ] API Tracker
 
