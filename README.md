@@ -32,8 +32,8 @@ Users should be able to:
 
 ## My process
 
-- [90%] Desktop-design
-- [50%] Active-states
+- [x] Desktop-design
+- [x] Active-states
 - [ ] Mobile-design
 - [ ] API Map
 - [ ] API Tracker
