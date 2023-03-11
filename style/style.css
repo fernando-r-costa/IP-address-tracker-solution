@@ -70,6 +70,13 @@ header h1 {
 
 }
 
+#map {
+    position: relative;
+    top: -180px;
+    height: 600px;
+    z-index: -1;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(4, 277px);
@@ -84,6 +91,7 @@ header h1 {
     width: 1110px;
     height: 180px;
     border-radius: 15px;
+    z-index: 1;
 }
 
 .grid p {
