@@ -1,7 +1,10 @@
 body {
     font-family: 'Rubik', sans-serif;
     width: 1440px;
-    background-color: gray;
+}
+
+main {
+    height: 605px;
 }
 
 header {
@@ -73,8 +76,8 @@ header h1 {
 #map {
     position: relative;
     top: -180px;
+    width: 100%;
     height: 600px;
-    z-index: -1;
 }
 
 .grid {
@@ -91,7 +94,7 @@ header h1 {
     width: 1110px;
     height: 180px;
     border-radius: 15px;
-    z-index: 1;
+    z-index: 999;
 }
 
 .grid p {

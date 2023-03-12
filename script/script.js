@@ -16,4 +16,4 @@ function mascaraIp() {
     } else {
         erro.style.display = "block";
     } 
-}
+};
