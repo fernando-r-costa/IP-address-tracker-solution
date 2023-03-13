@@ -36,7 +36,8 @@ Users should be able to:
 - [x] Active-states
 - [x] Mobile-design
 - [x] API Map
-- [ ] API Tracker
+- [x] API Tracker
+- [ ] Interactive
 
 
 ## Author
