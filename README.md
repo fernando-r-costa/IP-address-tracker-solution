@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/screenshot-1678820217527.jpeg)
-![](./design/screenshot-1678820246476.jpeg)
+![](./design/screenshot-1678821047286.jpeg)
+![](./design/screenshot-1678821052295.jpeg)
 
 ### Links
 
