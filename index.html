@@ -30,9 +30,9 @@
     <h1>IP Address Tracker</h1>
 
     <div class="search">
-      <input type="text" class="input" placeholder="Search for any IP address or domain" minlength="12">
-      <img class="button" src="./images/icon-arrow.svg">
-      <p id="erro">Número inválido</p>
+      <input type="text" class="input" placeholder="Search for any IP address or domain">
+      <img class="button" id="button" src="./images/icon-arrow.svg">
+      <!-- <p id="erro">Número inválido</p> se necessário validar -->
     </div>
 
   </header>
@@ -43,25 +43,25 @@
         <p>IP Address</p>
       </div>
       <div class="ip-address">
-        <span>123.123.123.123</span>
+        <span id="ip-address">123.123.123.123</span>
       </div>
       <div class="title-location">
         <p>Location</p>
       </div>
       <div class="location">
-        <span>Brooklyn, NY 10001</span>
+        <span id="location">Brooklyn, NY 10001</span>
       </div>
       <div class="title-timezone">
         <p>Timezone</p>
       </div>
       <div class="timezone">
-        <span>UTC -05:00</span>
+        <span id="timezone">UTC -05:00</span>
       </div>
       <div class="title-isp">
         <p>ISP</p>
       </div>
       <div class="isp">
-        <span>SpaceX Starlink</span>
+        <span id="isp">SpaceX Starlink</span>
       </div>
     </div>
 
