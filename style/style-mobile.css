@@ -87,4 +87,8 @@
     .isp {
         grid-area: 8 / 1 / 9 / 2;
     }
+
+    #map {
+        top: -300px;
+    }
 }
