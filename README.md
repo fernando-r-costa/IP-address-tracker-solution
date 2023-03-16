@@ -1,26 +1,25 @@
-# Frontend Mentor - IP address tracker solution
+#Solução de rastreador de endereço IP
 
-This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+## Índice
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Visão Geral](#visão-geral)
+  - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-- [Author](#author)
+- [Meu processo](#meu-processo)
+- [Autor](#autor)
 
-## Overview
 
-### The challenge
+## Visão Geral
 
-Users should be able to:
+### O Desafio
 
-- View the optimal layout for each page depending on their device's screen size
-- See hover states for all interactive elements on the page
-- See their own IP address on the map on the initial page load
-- Search for any IP addresses or domains and see the key information and location
+Os usuários deverão ter a capacidade de:
+
+- Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo;
+- Ver os estados de foco para todos os elementos interativos na página;
+- Pesquisar endereços IP ou domínios e ver as principais informações e localização.
 
 ### Screenshot
 
@@ -29,18 +28,18 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [E-commerce page](https://ip-address-tracker-solution.vercel.app/)
+- Site URL: [E-commerce page](https://ip-address-tracker-solution.vercel.app/)
 
-## My process
+## Meu processs
 
 - [x] Desktop-design
-- [x] Active-states
+- [x] Estados-ativos
 - [x] Mobile-design
-- [x] API Map
-- [x] API Tracker
-- [x] Interactive
+- [x] API-Map
+- [x] API-Tracker
+- [x] Interação
 
 
-## Author
+## Autor
 
 - LinkedIn - [Fernando R Costa](https://www.linkedin.com/in/fernando-r-costa/)
