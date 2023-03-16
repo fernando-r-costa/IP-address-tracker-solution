@@ -28,7 +28,7 @@ Os usuários deverão ter a capacidade de:
 
 ### Links
 
-- Site URL: [E-commerce page](https://ip-address-tracker-solution.vercel.app/)
+- Site URL: [IP tracker](https://ip-address-tracker-solution.vercel.app/)
 
 ## Meu processs
 
